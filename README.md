@@ -1,5 +1,8 @@
 # AMS595-Project4
-Simulating 3 mathematical phenomenons using Python (Mandelbrot Set, Markov Chain, and Taylor Series Approximation)
+Simulating 3 mathematical phenomenons using Python 
+1. Mandelbrot Set
+2. Markov Chain
+3. Taylor Series Approximation
 
 ## mandelbrot.py
 
