@@ -1,7 +1,7 @@
 # AMS595-Project4
 Simulating 3 mathematical phenomenons using Python (Mandelbrot Set, Markov Chain, and Taylor Series Approximation)
 
-**mandelbrot.py**
+## mandelbrot.py
 
 This project explores the Mandelbrot Set, a complex fractal structure, using Python. The primary objectives are to generate a grid of complex numbers, test complex number by applying the fractal function until divergence occurs or the maximum number of iterations has been reached, and create a mask that helps plot a visualization to show how quickly complex points diverge. 
 
