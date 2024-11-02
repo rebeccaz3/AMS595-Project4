@@ -20,3 +20,10 @@ If |z| > threshold before the max # of iterations, the complex point c is consid
 The script will generate a visualization of the Mandelbrot Set, showcasing the distribution of points.
 Points outside the Mandelbrot set, are diverging quickly (black). Points inside the Mandelbrot set are bounded after many iterations (white).
 The contrast between these areas highlights the fractal's intricate boundary, where points transition from stability (inside) to rapid divergence (outside).
+
+
+
+## markov_chain.py
+This project simulates the iterative nature of the Markov Chain using Python. The primary objectives are to generate a random transition matrix and initial probability vector, and normalize them to make them valid distributions. Then apply the transition matrix to the probability vector 50 times (like a Markov Chain), and compare the final probability vector to the stationary distribution to determine if the 2 distirbutions are sufficiently close. 
+
+
