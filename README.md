@@ -10,9 +10,9 @@ This project explores the Mandelbrot Set, a complex fractal structure, using Pyt
 
 **Features**
 
-Mandelbrot Set Calculation: Computes the Mandelbrot set by iterating complex numbers.
+- Mandelbrot Set Calculation: Computes the Mandelbrot set by iterating complex numbers.
 
-Visualization: Displays the Mandelbrot set using a grayscale colormap.
+- Visualization: Displays the Mandelbrot set using a grayscale colormap.
 
 **Usage**
 
