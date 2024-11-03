@@ -27,15 +27,15 @@ We cannot test if points diverge after an infinite number of iterations, which i
 
 We define the following conditions: 
 
-If |z| < threshold after max # of iterations, the complex point c is considered in the Mandelbrot Set. 
+- If |z| < threshold after max # of iterations, the complex point c is considered in the Mandelbrot Set. 
 
-If |z| > threshold before the max # of iterations, the complex point c is considered not in the Mandelbrot Set. 
+- If |z| > threshold before the max # of iterations, the complex point c is considered not in the Mandelbrot Set. 
 
 **Output**
 
 The script will compute the Mandelbrot Set based on the defined parameters.
 
-Then it will plot he results and generate a visualization of the distribution of points (saved as mandelbrot.png).
+Then it will plot the results and generate a visualization of the distribution of points (saved as mandelbrot.png).
 
 Points outside the Mandelbrot set, are diverging quickly (black). Points inside the Mandelbrot set are bounded after many iterations (white).
 
